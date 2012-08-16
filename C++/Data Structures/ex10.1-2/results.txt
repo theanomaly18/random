@@ -1,0 +1,11 @@
+phil@gibson ex10.1-2$ make
+g++ Stack.h test.cpp -o test
+phil@gibson ex10.1-2$ ./test 
+Top of Stack1 on Left Side, Top of Stack2 on Right Side: 4 - - - - - - - - -
+Top of Stack1 on Left Side, Top of Stack2 on Right Side: 4 - - - - - - - - 1
+Top of Stack1 on Left Side, Top of Stack2 on Right Side: 3 4 - - - - - - - 1
+Top of Stack1 on Left Side, Top of Stack2 on Right Side: 3 4 - - - - - - 1 5
+Top of Stack1 on Left Side, Top of Stack2 on Right Side: 4 - - - - - - - 1 5
+Top of Stack1 on Left Side, Top of Stack2 on Right Side: 4 - - - - - - 1 5 8
+Top of Stack1 on Left Side, Top of Stack2 on Right Side: 4 - - - - - - - 1 5
+phil@gibson ex10.1-2$ 

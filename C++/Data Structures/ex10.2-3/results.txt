@@ -1,0 +1,10 @@
+phil@gibson ex10.2-3$ make
+g++ queue.h test.cpp -o test
+phil@gibson ex10.2-3$ ./test
+Front of queue on Left Side: 4 
+Front of queue on Left Side: 4 1 
+Front of queue on Left Side: 4 1 3 
+Front of queue on Left Side: 1 3 
+Front of queue on Left Side: 1 3 8 
+Front of queue on Left Side: 3 8 
+phil@gibson ex10.2-3$ 

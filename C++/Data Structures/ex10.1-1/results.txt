@@ -1,0 +1,10 @@
+phil@gibson ex10.1-1$ make
+g++ Stack.h test.cpp -o test
+phil@gibson ex10.1-1$ ./test
+Top of Stack on Left Side: 4
+Top of Stack on Left Side: 1 4
+Top of Stack on Left Side: 3 1 4
+Top of Stack on Left Side: 1 4
+Top of Stack on Left Side: 8 1 4
+Top of Stack on Left Side: 1 4
+phil@gibson ex10.1-1$ 
