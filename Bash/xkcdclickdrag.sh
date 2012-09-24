@@ -10,7 +10,7 @@ lettere=e
 site="http://imgs.xkcd.com/clickdrag/"
 format=".png"
 
-while [ $num1 -lt 50 ]; do
+while [ $num1 -lt 10 ]; do
   let num1=$num1
   while [ $num2 -lt 50 ]; do
     #let num2=$num2
@@ -24,7 +24,7 @@ done
 num1=1
 num2=1
 
-while [ $num1 -lt 50 ]; do
+while [ $num1 -lt 10 ]; do
   let num1=$num1
   while [ $num2 -lt 50 ]; do
     let num2=$num2
@@ -38,7 +38,7 @@ done
 num1=1
 num2=1
 
-while [ $num1 -lt 50 ]; do
+while [ $num1 -lt 10 ]; do
   let num1=$num1
   while [ $num2 -lt 50 ]; do
     let num2=$num2
@@ -52,7 +52,7 @@ done
 num1=1
 num2=1
 
-while [ $num1 -lt 50 ]; do
+while [ $num1 -lt 10 ]; do
   let num1=$num1
   while [ $num2 -lt 50 ]; do
     let num2=$num2
